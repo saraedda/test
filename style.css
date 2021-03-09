@@ -365,6 +365,9 @@ background-color: aquamarine;
       width: 100%;
       text-align: center;
   }
+.text {
+   
+    height: 150px;}
   .main-div{
     height: 600px;
   }
